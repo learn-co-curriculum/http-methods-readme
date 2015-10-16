@@ -16,7 +16,7 @@ The HTTP `POST` method creates a new resource. Once the new resource has been cr
 
 ### Delete
 
-The HTTP `DELETE` method deletes an existing resource. If the resource has been successfulley deleted, either a 200 status code or a 204 status code (no content) will be returned. If the resource can't be deleted, either a 400 or 404 status code will be returned.
+The HTTP `DELETE` method deletes an existing resource. If the resource has been successfully deleted, either a 200 status code or a 204 status code (no content) will be returned. If the resource can't be deleted, either a 400 or 404 status code will be returned.
 
 ### Resources
 - [HTTP Methods Tutorial](http://www.restapitutorial.com/lessons/httpmethods.html)
