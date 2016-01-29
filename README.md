@@ -22,4 +22,4 @@ The HTTP `DELETE` method deletes an existing resource. If the resource has been 
 - [HTTP Methods Tutorial](http://www.restapitutorial.com/lessons/httpmethods.html)
 - [Offical HTTP Documentation](http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html)
 
-<a href='https://learn.co/lessons/http-methods-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/http-methods-readme' title='HTTP Methods'>HTTP Methods</a> on Learn.co and start learning to code for free.</p>
